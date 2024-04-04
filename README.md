@@ -35,7 +35,7 @@ Meine Interessen und Fähigkeiten sind vielseitig und deswegen möchte ich Sie a
 
 Erreichen sie mich gerne telefonisch unter [015168513753](tel:015168513753), oder per E-Mail an [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com]).
 
-Liebe Grüße,
+Liebe Grüße,<br>
 Stephan Lange
 
 ## Skills
