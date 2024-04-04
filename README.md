@@ -67,7 +67,7 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 
 ### Epo-FloorDesign - Website
 
-- **Link:** [epo-floordesign.de](www.epo-floordesign.de)
+- **Link:** [epo-floordesign.de](https://epo-floordesign.de)
 - **Tech:** html, css, js, php, seo
 - **Beschreibung:** Entwicklung einer responsiven Website für Unternehmen mit integriertem E-Commerce-System.
 
@@ -79,6 +79,6 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 
 ### Veranstaltungskassen.com
 
-- **Link:** [veranstaltungskassen.com](www.veranstaltungskassen.com)
+- **Link:** [veranstaltungskassen.com](https://veranstaltungskassen.com)
 - **Tech:** nextjs, AWS Amplify
 - **Beschreibung:** Entwicklung einer Website zur Repräsentation und Abwicklung von Erstattungen.
