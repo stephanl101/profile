@@ -25,6 +25,8 @@ Die Möglichkeit, meine Fähigkeiten in einem anspruchsvollen Umfeld einzubringe
 
 Am liebsten möchte ich Sie in einem persönlichen Gespräch von meiner Motivation und meinen Fähigkeiten überzeugen. Über eine Einladung zu einem Gespräch würde ich mich sehr freuen, ich würde Sie gerne perönlich überzeugen.
 
+Erreichen sie mich gerne telefonisch unter [015168513753](tel:015168513753), oder per E-Mail an [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com]).
+
 Liebe Grüße,
 Stephan Lange
 
