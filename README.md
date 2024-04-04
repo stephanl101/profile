@@ -13,8 +13,6 @@
 - **Tel:** [015168513753](tel:015168513753)
 - **Mail:** [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com])
 
-![Profilbild](/assets/imgs/0001.png "Profilbild")
-
 ## Über mich
 
 Als erfahrener Software-Entwickler mit Schwerpunkt auf C# und Unity, sowie umfangreicher Erfahrung in der Entwicklung von kundenspezifischen Projekten, bin ich überzeugt, dass ich die Anforderungen dieser Position erfüllen und einen wertvollen Beitrag zu Ihrem Team leisten kann.
