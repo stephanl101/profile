@@ -69,7 +69,7 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 - Tech: react, AWS Amplify
 - Beschreibung: Entwicklung eines sicheren Portals zur Eintragung und Verwaltung von Corona-Testergebnissen für Mitarbeiter, mit der Möglichkeit zum Download von Testzertifikaten.
 
-### Versanstaltunskassen.com
+### Veranstaltungskassen.com
 
 - Link: [veranstaltungskassen.com](www.meinunternehmen.com)
 - Tech: nextjs, AWS Amplify
