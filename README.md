@@ -38,7 +38,7 @@ Erreichen sie mich gerne telefonisch unter [015168513753](tel:015168513753), ode
 Liebe Grüße,<br>
 Stephan Lange
 
-## Skills
+## Erfahrungen & Skills
 
 - C#
 - Unity
@@ -50,6 +50,7 @@ Stephan Lange
 - AWS
 - Docker
 - Strapi
+- sql/dynamodb
 
 ## Projekte
 
