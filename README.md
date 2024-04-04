@@ -2,16 +2,16 @@
 
 ## Übersicht
 
-- Name: Stephan Lange
-- Geburtsdatum: 17.02.1995
-- Abschluss: Software developer for mobile systems, bib international college Paderborn, 2018.
-- Seit 2018: Selbständig im Bereich Software- und Web-Entwicklung für Kundenprojekte.
-- 2021-04.2024: Nebenberuflich festangestellt als Software-Entwickler.
+- **Name:** Stephan Lange
+- **Geburtsdatum:** 17.02.1995
+- **Abschluss:** Software developer for mobile systems, bib international college Paderborn, 2018.
+- **Seit 2018:** Selbständig im Bereich Software- und Web-Entwicklung für Kundenprojekte.
+- **2021-04.2024:** Nebenberuflich festangestellt als Software-Entwickler.
 
 ### Kontakt
 
-- Tel: [015168513753](tel:015168513753)
-- Mail: [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com])
+- **Tel:** [015168513753](tel:015168513753)
+- **Mail:** [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com])
 
 ![Profilbild](/assets/imgs/0001.png "Profilbild")
 
@@ -57,28 +57,28 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 
 ### Peters Schokowelt AR
 
-- Link: [Appstore](https://apps.apple.com/de/app/schokowelt/id1450756486)
-- Link: [Play Store](https://play.google.com/store/apps/details?id=com.werkzeichen.Schokowelt&hl=de&gl=US&pli=1)
+- **Link:** [Appstore](https://apps.apple.com/de/app/schokowelt/id1450756486)
+- **Link:** [Play Store](https://play.google.com/store/apps/details?id=com.werkzeichen.Schokowelt&hl=de&gl=US&pli=1)
 - Platz Neun im App Store in der Kategorie Unterhaltung. (Dezember 2023)
 - Über 30.000 Downloads auf Android und IOS
 - Laufzeit 2018 - heute
-- Tech: Unity, Vuforia, AWS, Docker, ExpressJs, C#
-- Beschreibung: Peters Schokowelt AR App bietet die Möglichkeit einer abenteuerlichen, interaktiven Reise durch das Schokomuseum und spanndende Entdeckungen mit Produkten des Hauses Peters.
+- **Tech:** Unity, Vuforia, AWS, Docker, ExpressJs, C#
+- **Beschreibung:** Peters Schokowelt AR App bietet die Möglichkeit einer abenteuerlichen, interaktiven Reise durch das Schokomuseum und spanndende Entdeckungen mit Produkten des Hauses Peters.
 
 ### Epo-FloorDesign - Website
 
-- Link: [epo-floordesign.de](www.epo-floordesign.com)
-- Tech: html, css, js, php, seo
-- Beschreibung: Entwicklung einer responsiven Website für Unternehmen mit integriertem E-Commerce-System.
+- **Link:** [epo-floordesign.de](www.epo-floordesign.com)
+- **Tech:** html, css, js, php, seo
+- **Beschreibung:** Entwicklung einer responsiven Website für Unternehmen mit integriertem E-Commerce-System.
 
 ### Claas - Mitarbeiterportal für Corona-Testergebnisse
 
-- Link: _nicht öffentlich_
-- Tech: react, AWS Amplify
-- Beschreibung: Entwicklung eines sicheren Portals zur Eintragung und Verwaltung von Corona-Testergebnissen für Mitarbeiter, mit der Möglichkeit zum Download von Testzertifikaten.
+- **Link:** _nicht öffentlich_
+- **Tech:** react, AWS Amplify
+- **Beschreibung:** Entwicklung eines sicheren Portals zur Eintragung und Verwaltung von Corona-Testergebnissen für Mitarbeiter, mit der Möglichkeit zum Download von Testzertifikaten.
 
 ### Veranstaltungskassen.com
 
-- Link: [veranstaltungskassen.com](www.meinunternehmen.com)
-- Tech: nextjs, AWS Amplify
-- Beschreibung: Entwicklung einer responsiven Website für Unternehmen mit integriertem E-Commerce-System.
+- **Link:** [veranstaltungskassen.com](www.meinunternehmen.com)
+- **Tech:** nextjs, AWS Amplify
+- **Beschreibung:** Entwicklung einer responsiven Website für Unternehmen mit integriertem E-Commerce-System.
