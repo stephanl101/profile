@@ -1,4 +1,4 @@
-# Bewerbung als Full-Stack-Developer .NET/Angular (M/W/D)
+# Bewerbung als Softwareentwickler / Full-Stack-Developer .NET/Angular
 
 ## Über mich
 
@@ -34,6 +34,8 @@ Mit freundlichen Grüßen,
 ### Augmented-Reality-App
 
 - Beschreibung: Entwicklung einer AR-App mit Unity, Vuforia, AWS S3 und Cognito, die innovative Lösungen für unsere Kunden ermöglichte.
+- Link: [Appstore](www.coronatestportal.com)
+- Link: [Play Store](www.coronatestportal.com)
 
 ## Kontakt
 
