@@ -61,7 +61,7 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 - Platz Neun im App Store in der Kategorie Unterhaltung. (Dezember 2023)
 - Über 30.000 Downloads auf Android und IOS
 - Laufzeit 2018 - heute
-- **Tech:** Unity, Vuforia, AWS, Docker, ExpressJs, C#
+- **Tech:** Unity, Vuforia, AWS, Docker, ExpressJs, C#, sql, js
 - **Beschreibung:** Peters Schokowelt AR App bietet die Möglichkeit einer abenteuerlichen, interaktiven Reise durch das Schokomuseum und spanndende Entdeckungen mit Produkten des Hauses Peters.
 
 ### Epo-FloorDesign - Website
