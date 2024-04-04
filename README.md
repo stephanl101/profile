@@ -74,7 +74,3 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 - Link: [veranstaltungskassen.com](www.meinunternehmen.com)
 - Tech: nextjs, AWS Amplify
 - Beschreibung: Entwicklung einer responsiven Website für Unternehmen mit integriertem E-Commerce-System.
-
-## Kontakt
-
-Ich freue mich über eine Kontaktaufnahme telefonisch unter [015168513753](tel:015168513753), oder per E-Mail an [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com]).
