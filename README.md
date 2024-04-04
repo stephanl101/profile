@@ -1,5 +1,10 @@
 # Bewerbung als Softwareentwickler / Full-Stack-Developer .NET/Angular
 
+## Kontakt
+
+- [Telefonnummer]
+- [email@example.com](mailto:email@example.com).
+
 ## Über mich
 
 Als erfahrener Software-Entwickler mit Schwerpunkt auf C# und Unity, sowie umfangreicher Erfahrung in der Entwicklung von kundenspezifischen Projekten, bin ich überzeugt, dass ich die Anforderungen dieser Position erfüllen und einen wertvollen Beitrag zu Ihrem Team leisten kann.
@@ -38,21 +43,38 @@ S Lange
 
 Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 
-### Unternehmenswebsite
+### Peters Schokowelt AR
 
-- Link: [www.meinunternehmen.com](www.meinunternehmen.com)
+- Link: [Appstore](https://apps.apple.com/de/app/schokowelt/id1450756486)
+- Link: [Play Store](https://play.google.com/store/apps/details?id=com.werkzeichen.Schokowelt&hl=de&gl=US&pli=1)
+
+- Platz Neun im App Store in der Kategorie Unterhaltung. (Dezember 2023)
+- Über 30.000 Downloads auf Android und IOS
+- Laufzeit 2018 - heute
+- Tech: Unity, Vuforia, AWS, Docker, ExpressJs, C#
+
+- Beschreibung
+  Peters Schokowelt AR App bietet die Möglichkeit virtuell mit Produkten des Hauses Peters zu interagieren.
+
+### Epo-FloorDesign - Website
+
+- Link: [epo-floordesign.de](www.epo-floordesign.com)
+- Tech: html, css, js, php, seo
+- Beschreibung:
+  Entwicklung einer responsiven Website für Unternehmen mit integriertem E-Commerce-System.
+
+### Claas - Mitarbeiterportal für Corona-Testergebnisse
+
+- Link: nicht öffentlich
+- Tech: react, AWS Amplify
+- Beschreibung:
+  Entwicklung eines sicheren Portals zur Eintragung und Verwaltung von Corona-Testergebnissen für Mitarbeiter, mit der Möglichkeit zum Download von Testzertifikaten.
+
+### Versanstaltunskassen.com
+
+- Link: [veranstaltungskassen.com](www.meinunternehmen.com)
+- Tech: nextjs, AWS Amplify
 - Beschreibung: Entwicklung einer responsiven Website für Unternehmen mit integriertem E-Commerce-System.
-
-### Mitarbeiterportal für Corona-Testergebnisse
-
-- Link: [Mitarbeiterportal](www.coronatestportal.com)
-- Beschreibung: Entwicklung eines sicheren Portals zur Eintragung und Verwaltung von Corona-Testergebnissen für Mitarbeiter, mit der Möglichkeit zum Download von Testzertifikaten.
-
-### Augmented-Reality-App
-
-- Link: [Appstore](www.coronatestportal.com)
-- Link: [Play Store](www.coronatestportal.com)
-- Beschreibung: Entwicklung einer AR-App mit Unity, Vuforia, AWS S3 und Cognito, die innovative Lösungen für unsere Kunden ermöglichte.
 
 ## Kontakt
 
