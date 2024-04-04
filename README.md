@@ -3,7 +3,9 @@
 ## Kontakt
 
 - Tel: [015168513753](tel:015168513753)
-  . Mail: [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com])
+- Mail: [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com])
+
+![Profilbild](/assets/imags/001.jpg "Profilbild")
 
 ## Über mich
 
