@@ -25,8 +25,8 @@ Die Möglichkeit, meine Fähigkeiten in einem anspruchsvollen Umfeld einzubringe
 
 Am liebsten möchte ich Sie in einem persönlichen Gespräch von meiner Motivation und meinen Fähigkeiten überzeugen. Über eine Einladung zu einem Gespräch würde ich mich sehr freuen, ich würde Sie gerne perönlich überzeugen.
 
-Mit freundlichen Grüßen,
-S Lange
+Liebe Grüße,
+Stephan Lange
 
 ## Skills
 
@@ -53,7 +53,7 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 - Über 30.000 Downloads auf Android und IOS
 - Laufzeit 2018 - heute
 - Tech: Unity, Vuforia, AWS, Docker, ExpressJs, C#
-- Beschreibung: Peters Schokowelt AR App bietet die Möglichkeit virtuell mit Produkten des Hauses Peters zu interagieren.
+- Beschreibung: Peters Schokowelt AR App bietet die Möglichkeit einer abenteuerlichen, interaktiven Reise durch das Schokomuseum und spanndende Entdeckungen mit Produkten des Hauses Peters.
 
 ### Epo-FloorDesign - Website
 
