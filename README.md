@@ -2,8 +2,8 @@
 
 ## Kontakt
 
-- [Telefonnummer]
-- [email@example.com](mailto:email@example.com).
+- Tel: [015168513753](tel:015168513753)
+  . Mail: [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com])
 
 ## Über mich
 
@@ -78,4 +78,4 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 
 ## Kontakt
 
-Ich freue mich über eine Kontaktaufnahme telefonisch unter [Telefonnummer], oder per E-Mail an [email@example.com](mailto:email@example.com).
+Ich freue mich über eine Kontaktaufnahme telefonisch unter [015168513753](tel:015168513753), oder per E-Mail an [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com]).
