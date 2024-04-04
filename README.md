@@ -47,28 +47,23 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 
 - Link: [Appstore](https://apps.apple.com/de/app/schokowelt/id1450756486)
 - Link: [Play Store](https://play.google.com/store/apps/details?id=com.werkzeichen.Schokowelt&hl=de&gl=US&pli=1)
-
 - Platz Neun im App Store in der Kategorie Unterhaltung. (Dezember 2023)
 - Über 30.000 Downloads auf Android und IOS
 - Laufzeit 2018 - heute
 - Tech: Unity, Vuforia, AWS, Docker, ExpressJs, C#
-
-- Beschreibung
-  Peters Schokowelt AR App bietet die Möglichkeit virtuell mit Produkten des Hauses Peters zu interagieren.
+- Beschreibung: Peters Schokowelt AR App bietet die Möglichkeit virtuell mit Produkten des Hauses Peters zu interagieren.
 
 ### Epo-FloorDesign - Website
 
 - Link: [epo-floordesign.de](www.epo-floordesign.com)
 - Tech: html, css, js, php, seo
-- Beschreibung:
-  Entwicklung einer responsiven Website für Unternehmen mit integriertem E-Commerce-System.
+- Beschreibung: Entwicklung einer responsiven Website für Unternehmen mit integriertem E-Commerce-System.
 
 ### Claas - Mitarbeiterportal für Corona-Testergebnisse
 
 - Link: nicht öffentlich
 - Tech: react, AWS Amplify
-- Beschreibung:
-  Entwicklung eines sicheren Portals zur Eintragung und Verwaltung von Corona-Testergebnissen für Mitarbeiter, mit der Möglichkeit zum Download von Testzertifikaten.
+- Beschreibung: Entwicklung eines sicheren Portals zur Eintragung und Verwaltung von Corona-Testergebnissen für Mitarbeiter, mit der Möglichkeit zum Download von Testzertifikaten.
 
 ### Versanstaltunskassen.com
 
