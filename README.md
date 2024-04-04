@@ -31,7 +31,7 @@ Außerdem besitze ich eine große Anpassungsfähigkeit und bilde mich gerne selb
 
 Die Möglichkeit, meine Fähigkeiten in einem anspruchsvollen Umfeld einzubringen und mich kontinuierlich weiterzuentwickeln, reizt mich sehr. Ich bin überzeugt davon, dass meine Kenntnisse in C# und Full-Stack Webentwicklung, sowie meine Erfahrung in der Entwicklung von kundenspezifischen Projekten, einen wertvollen Beitrag zu Ihrem Team leisten können. Meine stärken liegen vor allem darin von allem etwas zu können. Durch die Vielseitigkeit meiner bisherigen Aufgaben durfte ich Einblicke in verschiedenste Bereiche der Software-Entwicklung gewinnen.
 
-Am liebsten möchte ich Sie in einem persönlichen Gespräch von meiner Motivation und meinen Fähigkeiten überzeugen. Über eine Einladung zu einem Gespräch würde ich mich sehr freuen, ich würde Sie gerne perönlich überzeugen.
+Meine Interessen und Fähigkeiten sind vielseitig und deswegen möchte ich Sie am liebsten in einem persönlichen Gespräch von mir überzeugen. Über eine Einladung würde ich mich sehr freuen.
 
 Erreichen sie mich gerne telefonisch unter [015168513753](tel:015168513753), oder per E-Mail an [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com]).
 
