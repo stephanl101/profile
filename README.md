@@ -81,4 +81,4 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 
 - **Link:** [veranstaltungskassen.com](https://veranstaltungskassen.com)
 - **Tech:** nextjs, AWS Amplify
-- **Beschreibung:** Entwicklung einer Website zur Repräsentation und Abwicklung von Erstattungen.
+- **Beschreibung:** Entwicklung einer Website zur Repräsentation des Unternehmens, der Bezahl-Dienstleistung und Abwicklung von Erstattungen.
