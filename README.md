@@ -61,7 +61,7 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 
 ### Claas - Mitarbeiterportal für Corona-Testergebnisse
 
-- Link: nicht öffentlich
+- Link: _nicht öffentlich_
 - Tech: react, AWS Amplify
 - Beschreibung: Entwicklung eines sicheren Portals zur Eintragung und Verwaltung von Corona-Testergebnissen für Mitarbeiter, mit der Möglichkeit zum Download von Testzertifikaten.
 
