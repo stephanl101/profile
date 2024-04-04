@@ -36,6 +36,8 @@ S Lange
 
 ## Projekte
 
+Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
+
 ### Unternehmenswebsite
 
 - Link: [www.meinunternehmen.com](www.meinunternehmen.com)
