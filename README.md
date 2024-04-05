@@ -72,6 +72,7 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 
 - **Link:** _nicht öffentlich_
 - **Tech:** react, AWS
+- Über 5000 Nutzer
 - **Beschreibung:** Entwicklung eines sicheren Portals zur Eintragung und Verwaltung von Corona-Testergebnissen für Mitarbeiter, mit der Möglichkeit zum Download von Testzertifikaten.
 
 ### Veranstaltungskassen.com
