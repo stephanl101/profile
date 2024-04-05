@@ -10,28 +10,24 @@
 
 ### Kontakt
 
-- **Tel:** [015168513753](tel:015168513753)
+- **Tel:** [0151 68513753](tel:015168513753)
 - **Mail:** [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com])
 
 ## Über mich
 
-Als erfahrener Software-Entwickler mit Schwerpunkt auf C# und Unity, sowie umfangreicher Erfahrung in der Entwicklung von kundenspezifischen Projekten, bin ich überzeugt, dass ich die Anforderungen dieser Position erfüllen und einen wertvollen Beitrag zu Ihrem Team leisten kann.
+Als leidenschaftlicher Software-Entwickler mit Schwerpunkt auf C# und Unity habe ich im Laufe meiner Karriere vielfältige Erfahrungen gesammelt. Seit 2018 bin ich selbstständig und konnte erfolgreich Kundenprojekte umsetzen. Dazu gehörten unter anderem die Entwicklung von Unternehmenswebsites sowie eines Mitarbeiterportals.
 
-Während meiner bisherigen beruflichen Laufbahn habe ich als Entwickler in meiner eigenen Firma erfolgreich Kundenprojekte umgesetzt. Dazu gehören unter anderem die Entwicklung von Unternehmenswebsites oder eines Mitarbeiterportals.
-Besonders stolz bin ich auf mein umfangreichstes Projekt. Die Entwicklung einer mobilen Augmented-Reality-App mit Unity, Vuforia, und AWS zur augmentierung hauseigener Produkte des Pralinenherstellers Peters.
-Das Highlight der App ist eine komplett interaktive, augmentierte Tour, direkt vor Ort, durch das Musuem der Schokowelt in Lippstadt.
-Die Anforderungen an dieses Projekt sind sehr umfangreich und fordern mich ständig in neue Bereiche vorzudringen und neue Fähigkeiten zu erwerben.
+Besonders stolz bin ich auf mein umfangreichstes Projekt: die Entwicklung einer mobilen Augmented-Reality-App in Zusammenarbeit mit dem renommierten Pralinenhersteller Peters. Diese App, realisiert mit Unity, Vuforia und AWS, ermöglicht eine faszinierende interaktive Tour durch das Museum der Schokowelt in Lippstadt. Dieses Projekt hat meine Fähigkeiten herausgefordert und mir gezeigt, dass ich mich in neue Technologien einarbeiten und komplexe Anforderungen erfolgreich umsetzen kann.
 
 ## Fähigkeiten & Motivation
 
-Meine Expertise liegt in der Entwicklung mit C#, insbesondere in der Verwendung von Unity zur Erstellung interaktiver Anwendungen und Spiele. Dabei habe ich nicht nur meine technischen Fähigkeiten unter Beweis gestellt, sondern auch meine Fähigkeit zur Problemlösung und zur Entwicklung maßgeschneiderter Lösungen für die Bedürfnisse meiner Kunden demonstriert.
-Außerdem besitze ich eine große Anpassungsfähigkeit und bilde mich gerne selbst weiter um die Anforderungen neuer Projekte zu lösen.
+Meine Expertise liegt in der Entwicklung mit C#, insbesondere in der Verwendung von Unity zur Erstellung interaktiver Anwendungen und Spiele. Durch meine vielfältigen Aufgaben konnte ich umfangreiche Erfahrungen sammeln und meine Fähigkeit zur Problemlösung sowie zur Entwicklung maßgeschneiderter Lösungen stetig verbessern.
 
-Die Möglichkeit, meine Fähigkeiten in einem anspruchsvollen Umfeld einzubringen und mich kontinuierlich weiterzuentwickeln, reizt mich sehr. Ich bin überzeugt davon, dass meine Kenntnisse in C# und Full-Stack Webentwicklung, sowie meine Erfahrung in der Entwicklung von kundenspezifischen Projekten, einen wertvollen Beitrag zu Ihrem Team leisten können. Meine stärken liegen vor allem darin von allem etwas zu können. Durch die Vielseitigkeit meiner bisherigen Aufgaben durfte ich Einblicke in verschiedenste Bereiche der Software-Entwicklung gewinnen.
+Ich bin jemand, der sich gerne neuen Herausforderungen stellt und kontinuierlich dazulernt, um den Anforderungen neuer Projekte gerecht zu werden. Die Möglichkeit, meine Fähigkeiten in einem anspruchsvollen Umfeld einzubringen und mich weiterzuentwickeln, reizt mich sehr. Ich bin überzeugt davon, dass meine Kenntnisse in C#, Full-Stack Webentwicklung und meine Erfahrung in der Entwicklung kundenspezifischer Projekte einen wertvollen Beitrag zu Ihrem Team leisten können.
 
-Meine Interessen und Fähigkeiten sind vielseitig und deswegen möchte ich Sie am liebsten in einem persönlichen Gespräch von mir überzeugen. Über eine Einladung würde ich mich sehr freuen.
+Mir ist es wichtig, meine Begeisterung und meine Fähigkeiten persönlich zu vermitteln. Daher würde ich mich über eine Einladung zu einem persönlichen Gespräch sehr freuen.
 
-Erreichen sie mich gerne telefonisch unter [015168513753](tel:015168513753), oder per E-Mail an [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com]).
+Erreichen sie mich gerne telefonisch unter [0151 68513753](tel:015168513753), oder per E-Mail an [stephan.lange@protonmail.com](mailto:stephan.lange@protonmail.com]).
 
 Liebe Grüße,<br>
 Stephan Lange
