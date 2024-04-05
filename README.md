@@ -36,7 +36,7 @@ Stephan Lange
 
 - C#
 - Unity
-- js/njs
+- js, ts, node
 - react
 - nextjs
 - Flutter
@@ -44,7 +44,8 @@ Stephan Lange
 - AWS
 - Docker
 - Strapi
-- sql/dynamodb
+- sql, dynamodb
+- html, css, php
 
 ## Projekte
 
