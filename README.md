@@ -71,11 +71,11 @@ Hier finden Sie eine Auswahl meiner bisherigen Kundenprojekte.
 ### Claas - Mitarbeiterportal für Corona-Testergebnisse
 
 - **Link:** _nicht öffentlich_
-- **Tech:** react, AWS Amplify
+- **Tech:** react, AWS
 - **Beschreibung:** Entwicklung eines sicheren Portals zur Eintragung und Verwaltung von Corona-Testergebnissen für Mitarbeiter, mit der Möglichkeit zum Download von Testzertifikaten.
 
 ### Veranstaltungskassen.com
 
 - **Link:** [veranstaltungskassen.com](https://veranstaltungskassen.com)
-- **Tech:** nextjs, AWS Amplify
+- **Tech:** nextjs, AWS
 - **Beschreibung:** Entwicklung einer Website zur Repräsentation des Unternehmens, der Bezahl-Dienstleistung und Abwicklung von Erstattungen.
