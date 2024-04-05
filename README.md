@@ -4,7 +4,8 @@
 
 - **Name:** Stephan Lange
 - **Geburtsdatum:** 17.02.1995
-- **Abschluss:** Software developer for mobile systems, bib international college Paderborn, 2018.
+- **Schulabschluss:** Abitur
+- **Ausbildung:** Software developer for mobile systems, bib international college Paderborn, 2018.
 - **Seit 2018:** Selbständig im Bereich Software- und Web-Entwicklung für Kundenprojekte.
 - **2021-04.2024:** Nebenberuflich festangestellt als Software-Entwickler.
 
